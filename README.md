@@ -1,6 +1,5 @@
 ### Hi buddy 👋
 
-
 - 🔭 I’m currently working on creating a new tool using [puppeteer](https://github.com/puppeteer/puppeteer)
 - 🌱 I’m currently learning Python, Blockchain and Adobe illustrator!
 - 👯 I’m looking to collaborate on [HTML2PDF](https://github.com/jithinanchanattu/HTML2PDF) 🤝;
