@@ -23,8 +23,8 @@
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [What are deepfakes — and how can you spot them?](https://medium.com/@getjithin/what-are-deepfakes-and-how-can-you-spot-them-5e7b02675b97?source=rss-5ef82ab967c4------2)
 - [Angular Quick Notes](https://medium.com/@getjithin/angular-quick-notes-b928d9e2e26f?source=rss-5ef82ab967c4------2)
 - [Setting up a local SVN repository](https://medium.com/@getjithin/setting-up-a-local-svn-repository-b7866224ed27?source=rss-5ef82ab967c4------2)
 - [AI Bots Marketing — A conceivable reality on course for impact!](https://medium.com/@getjithin/ai-bots-marketing-a-conceivable-reality-on-course-for-impact-77c0d45ee2be?source=rss-5ef82ab967c4------2)
-- [Setting up webmail in Microsoft Outlook 2013](https://medium.com/@getjithin/setting-up-microsoft-outlook-2013-45ca868fc6af?source=rss-5ef82ab967c4------2)
 <!-- BLOG-POST-LIST:END -->
