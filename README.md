@@ -4,7 +4,7 @@
 - 🌱 Currently learning Python, Blockchain and Adobe illustrator!
 - 👯 I’m looking to collaborate on [HTML2PDF](https://github.com/jithinanchanattu/HTML2PDF) 🤝;
 - 💬 Talk to me about Creative Ideas!
-- 📫 Mostly I will be working in private projects, but here is how you can reach me: [@getjithin](https://medium.com/@getjithin)
+- 📫 Here is how you can reach me: [@getjithin](https://medium.com/@getjithin)
 - 📝 [Resume](http://bit.ly/getjithin)
 
 **Languages and Tools:**  
